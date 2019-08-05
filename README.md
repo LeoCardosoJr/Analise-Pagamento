@@ -36,6 +36,9 @@ Para executar os testes você pode abrir a pasta principal do projeto e executar
 ```
 python -m pytest
 ```
+O resultado deve ser similar ao da imagem abaixo:
+
+![](https://leocardosojr.s3.sa-east-1.amazonaws.com/tests.png)
 
 ## Construído com
 
