@@ -1,8 +1,8 @@
 # Análise de dados de Pagamentos de clientes
  
-Análise de dados de pagamentos de clientes utilizando Python (Pandas e PyTest) e a Amazon Web Services (AWS) com os produtos (S3, Redshift e QuickSight)
+Análise de dados de pagamentos de clientes utilizando Python (Pandas e PyTest), a Amazon Web Services (AWS) com os produtos (S3, Redshift) e o Power BI da Microsoft
 
-Este programa importará os dados fará os cálculos que serão carregados para a AWS S3 e posteriormente armazenados no AWS Redshift, com isso, pode-se utilizar QuickSight (serviço de BI) e fazer a Análise gráfica dos dados.
+Este script importará os dados, fará os cálculos, e carregará os dados para a AWS S3 e posteriormente armazenará no AWS Redshift, com isso, pode-se utilizar Power BI (serviço de BI) para fazer a Análise gráfica dos dados conectando-se diretamente no AWS Redshift.
 
 ## Instalação
 
@@ -39,6 +39,10 @@ python -m pytest
 O resultado deve ser similar ao da imagem abaixo:
 
 ![](https://leocardosojr.s3.sa-east-1.amazonaws.com/tests.png)
+
+## Relatório dos dados
+
+O relatório consolidados no Data Warehouse feito pelo programa foi feito no Power BI e esta disponível neste [link](https://app.powerbi.com/view?r=eyJrIjoiZDc2YjY4NGUtZTYyNi00ZDJkLWIyMTItOGMwZTZjMWJmYzc1IiwidCI6IjkxMDg4ZTBiLWYyZDYtNDU0Mi1iYWRiLWQ4Nzc5MzBjYjJmOCJ9):
 
 ## Construído com
 
