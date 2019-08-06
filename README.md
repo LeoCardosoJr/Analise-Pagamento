@@ -42,7 +42,7 @@ O resultado deve ser similar ao da imagem abaixo:
 
 ## Relatório dos dados
 
-O relatório consolidados no Data Warehouse feito pelo programa foi feito no Power BI e esta disponível neste [link](https://app.powerbi.com/view?r=eyJrIjoiZDc2YjY4NGUtZTYyNi00ZDJkLWIyMTItOGMwZTZjMWJmYzc1IiwidCI6IjkxMDg4ZTBiLWYyZDYtNDU0Mi1iYWRiLWQ4Nzc5MzBjYjJmOCJ9):
+O relatório dos dados consolidados no Data Warehouse feito pelo programa foi feito no Power BI e esta disponível neste [link](https://app.powerbi.com/view?r=eyJrIjoiZDc2YjY4NGUtZTYyNi00ZDJkLWIyMTItOGMwZTZjMWJmYzc1IiwidCI6IjkxMDg4ZTBiLWYyZDYtNDU0Mi1iYWRiLWQ4Nzc5MzBjYjJmOCJ9):
 
 ## Construído com
 
